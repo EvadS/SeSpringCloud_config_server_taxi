@@ -1,0 +1,19 @@
+
+Демо примере для работы со  spring cloud
+все репозитарии по отдельности
+
+--------------------------------
+базовая статья 
+https://o7planning.org/ru/11723/understanding-spring-cloud-config-server-with-example
+построение распределенного приложения, используя  Spring Cloud.
+базовое приложение 
+SpringCloudConfigServer
+
+spring-cloud-config-git-repo-example
+(https://github.com/EvadS/spring-cloud-config-git-repo-example)
+Config Server для SpringCloudConfigServer
+здесь мы пробуем хранить конфигурационные файлы 
+
+первый шаг проверки 
+http://localhost:8888/spring-cloud-hello-service.properties
+-----------------------------------------------
